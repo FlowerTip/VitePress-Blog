@@ -31,8 +31,6 @@
 
     *   `computed`与`watch`
 
-        ......
-
 1.  新的内置组件：
 
     *   `Fragment`
