@@ -52,6 +52,7 @@ export default defineConfig({
           text: 'Vue进阶',
           items: [
             { text: 'Nginx部署Vue项目', link: '/docs/web/vue/default' },
+            { text: '高效学习VUE3我只看这篇文章', link: '/docs/web/vue/vue3' },
           ]
         }
       ],

@@ -42,7 +42,7 @@ hero:
   actions:
     - theme: brand
       text: 开始学习
-      link: /docs/web/vue/default
+      link: /docs/web/vue/vue3
     - theme: alt
       text: 开源项目
       link: https://gitee.com/FlowerTip
