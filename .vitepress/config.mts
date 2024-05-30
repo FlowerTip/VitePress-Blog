@@ -23,7 +23,7 @@ export default defineConfig({
     siteTitle: '狗尾巴花的尖',
     logo: '/images/avatar.jpg',
     outlineTitle: "知识内容",
-    outline: [2, 6],
+    outline: [1, 6],
     nav: [
       {
         text: '前端进阶',
