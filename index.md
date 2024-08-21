@@ -44,6 +44,6 @@ hero:
       text: 开始学习
       link: /docs/web/vue/vue3
     - theme: alt
-      text: 开源项目
-      link: https://gitee.com/FlowerTip
+      text: 作品展示
+      link: http://www.flowertip.site/admin
 ---
