@@ -23,4 +23,4 @@
 
 ## 博客展示效果
 
-![博客效果图片](https://flowertip.github.io/vitepress-blog/images/blog.png)
+![博客效果图片](http://flowertip.site/vitepress-blog/images/blog.png)

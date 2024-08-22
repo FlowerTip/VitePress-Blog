@@ -41,7 +41,7 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: 开始学习
+      text: 开始阅读
       link: /docs/web/vue/vue3
     - theme: alt
       text: 作品展示

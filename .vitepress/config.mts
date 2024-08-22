@@ -129,7 +129,7 @@ export default defineConfig({
     },
     footer: {
       message: '温馨提示：转载知识库文章，请标明出处',
-      copyright: 'Copyright@ 2024 狗尾巴花的尖',
+      copyright: 'Copyright@ 2024 狗尾巴花的尖 <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2024083028号-1</a>',
     },
     search: {
       provider: 'local',
@@ -183,6 +183,6 @@ export default defineConfig({
   },
   markdown: {
     theme: 'github-light',
-    lineNumbers: false,
+    lineNumbers: false
   }
 })
