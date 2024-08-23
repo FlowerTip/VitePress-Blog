@@ -45,5 +45,5 @@ hero:
       link: /docs/web/vue/vue3
     - theme: alt
       text: 作品展示
-      link: http://www.flowertip.site/admin
+      link: https://www.flowertip.site/admin
 ---
