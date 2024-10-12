@@ -41,9 +41,9 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: 开始阅读
-      link: /docs/web/vue/vue3
-    - theme: alt
-      text: 作品展示
+      text: FlowerTip Admin (Vue版本)
       link: https://www.flowertip.site/admin
+    - theme: alt
+      text: FlowerTip Admin (React版本)
+      link: https://www.flowertip.site/pro
 ---
