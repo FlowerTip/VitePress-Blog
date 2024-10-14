@@ -35,7 +35,7 @@ features:
 hero:
   name: 高级前端进阶
   text: 深夜改BUG，专注于前端开发
-  tagline: 一个前端进阶路上的学习者，有输入就要有输出，愿你前端技术学习的热忱永远不会被辜负
+  tagline: FlowerTip Admin 企业级后台管理系统开源项目的作者，致力于为企业级项目提供开箱即用的解决方案。
   image:
     src: /svg/logo.svg
     alt: 背景图
