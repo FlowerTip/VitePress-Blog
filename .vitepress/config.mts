@@ -23,7 +23,7 @@ export default defineConfig({
     })();`],
   ],
   themeConfig: {
-    siteTitle: '狗尾巴花的尖',
+    siteTitle: '知识库',
     logo: '/images/avatar.jpg',
     outlineTitle: "知识内容",
     outline: [1, 6],

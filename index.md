@@ -34,7 +34,7 @@ features:
     link: /docs/recommend/common/default
 hero:
   name: 高级前端进阶
-  text: 深夜改BUG，专注于前端开发
+  text: 狗尾巴花的尖，专注于前端开发
   tagline: FlowerTip Admin 企业级后台管理系统开源项目的作者，致力于为企业级项目提供开箱即用的解决方案。
   image:
     src: /svg/logo.svg
