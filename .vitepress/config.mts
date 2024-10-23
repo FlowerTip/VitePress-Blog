@@ -109,6 +109,9 @@ export default defineConfig({
       prev: '上一篇',
       next: '下一篇'
     },
+    darkModeSwitchLabel: '当前主题',
+    lightModeSwitchTitle: '切换浅色模式',
+    darkModeSwitchTitle: '切换深色模式'
   },
   markdown: {
     theme: 'github-light',
