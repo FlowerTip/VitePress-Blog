@@ -3,7 +3,7 @@ import sidebar from './sidebar.mts'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  appearance: true,
+  appearance: false,
   title: "狗尾巴花的尖的知识库",
   description: "快乐是要去寻找的，很少有人天生幸福",
   base: '/vitepress-blog/',
