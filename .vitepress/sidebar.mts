@@ -87,5 +87,16 @@ export default {
         { text: 'Vue项目接入大华视频功能', link: '/docs/question/vue/video' },
       ]
     }
+  ],
+  /* 开源项目 */
+  '/docs/project/web/': [
+    {
+      text: '开源项目',
+      items: [
+        { text: 'FlowerTip-Admin(Vue版本)', link: '/docs/project/web/flowertip-admin-vue' },
+        { text: 'FlowerTip-Admin(React版本)', link: '/docs/project/web/flowertip-admin-react' },
+        { text: 'FlowerTip-Mall(UniApp版本)', link: '/docs/project/web/flowertip-mall' },
+      ]
+    }
   ]
 }

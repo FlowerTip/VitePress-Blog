@@ -46,7 +46,7 @@ export default defineConfig({
       },
       { text: '问题记录', link: '/docs/question/vue/bigscreen' },
       { text: '我的工具', link: '/docs/tool/common/default' },
-      { text: '开源项目', link: '/docs/project/vue/default' },
+      { text: '开源项目', link: '/docs/project/web/flowertip-admin-vue' },
       { text: '优质推荐', link: '/docs/recommend/common/default' },
     ],
     sidebar,

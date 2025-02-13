@@ -41,9 +41,12 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: FlowerTip Admin (Vue版本)
+      text: FlowerTip Admin(React版本)
+      link: https://www.flowertip.site/pro
+    - theme: alt
+      text: FlowerTip Admin(Vue版本)
       link: https://www.flowertip.site/admin
     - theme: alt
-      text: FlowerTip Admin (React版本)
-      link: https://www.flowertip.site/pro
+      text: 花工坊
+      link: http://flowertip.site/mall
 ---
