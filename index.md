@@ -26,7 +26,7 @@ features:
       src: /svg/project.svg
     title: 开源项目
     details: 分享自己开发的一些开源项目
-    link: /docs/project/vue/default
+    link: /docs/project/web/flowertip-admin-react
   - icon:
       src: /svg/recommend.svg
     title: 推荐内容
