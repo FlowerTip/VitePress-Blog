@@ -1,5 +1,5 @@
-# 花工坊
-> UniApp中采用Vue3+Pinna模式开发的H5，小程序，APP平台的，花工坊项目。
+# 花栖间
+> UniApp中采用Vue3+Pinna模式开发的H5，小程序，APP平台的，花栖间项目。
 
 ## 项目预览
   - 在线预览：http://flowertip.site/mall/#/
