@@ -61,7 +61,6 @@ features:
       src: /svg/recommend.svg
     title: 开源租位
     details: 推广别人投递的开源项目，或者是后续自己开发的项目，如果大家有需要展示的自己的作品，可以联系作者，作者会审核项目后添加在此展示你的个人作品
-    link: https://flowertip.site/mall
 hero:
   name: 高级前端进阶
   text: 狗尾巴花的尖，专注于前端开发
