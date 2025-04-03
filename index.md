@@ -2,51 +2,21 @@
 layout: home
 
 features:
-  # - icon:
-  #     src: /svg/study.svg
-  #   title: 前端学习
-  #   details: 记录工作学习中的前端技术知识
-  #   link: /docs/web/vue/default
-  # - icon:
-  #     src: /svg/life.svg
-  #   title: 后端学习
-  #   details: 记录工作学习中的后端技术知识
-  #   link: /docs/server/java/模块1_入门程序/default
-  # - icon: 
-  #     src: /svg/question.svg
-  #   title: 问题记录
-  #   details: 归纳工作遇到的疑难问题
-  #   link: /docs/question/vue/bigscreen
-  # - icon:
-  #     src: /svg/tool.svg
-  #   title: 开发工具
-  #   details: 记录公司开发中常用的工具集
-  #   link: /docs/tool/common/default
-  # - icon: 
-  #     src: /svg/project.svg
-  #   title: 开源项目
-  #   details: 分享自己开发的一些开源项目
-  #   link: /docs/project/web/flowertip-admin-react
-  # - icon:
-  #     src: /svg/recommend.svg
-  #   title: 推荐内容
-  #   details: 推荐一些优质博客内容
-  #   link: /docs/recommend/common/default
   - icon:
       src: /svg/vue.svg
     title: FlowerTip Admin Vue
     details: 一个基于 Vue3 + TypeScript + Element Plus + Axios + Vue Router@4 + Pina + Vite 开发的企业级后台管理系统
-    link: https://flowertip.site/admin/#/login
+    link: https://www.flowertip.site/admin/#/login
   - icon:
       src: /svg/react.svg
     title: FlowerTip Admin React
     details: 一个基于 React18 + TypeScript + Antd Design + Axios + React-Router-Dom@6 + Valtio + Vite 开发的企业级后台管理系统
-    link: https://flowertip.site/pro/#/login
+    link: https://www.flowertip.site/pro/#/login
   - icon:
       src: /svg/app.png
     title: 花栖间
     details: 基于 uni-App 框架采用 Vue3 + Pinna + uv-ui + uniClound 云服务前后端一体化模式开发的一套代码部署多端平台的，鲜花商城项目。
-    link: https://flowertip.site/mall
+    link: https://www.flowertip.site/mall
   - icon:
       src: /svg/avatar.jpg
     title: Vitepress Blog
