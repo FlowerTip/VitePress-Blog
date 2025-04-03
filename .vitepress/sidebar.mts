@@ -84,7 +84,6 @@ export default {
       text: '问题记录',
       items: [
         { text: '数据大屏的解决方案', link: '/docs/question/vue/bigscreen' },
-        { text: 'Vue项目接入大华视频功能', link: '/docs/question/vue/video' },
       ]
     }
   ],

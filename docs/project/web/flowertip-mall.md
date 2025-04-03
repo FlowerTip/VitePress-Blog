@@ -1,8 +1,8 @@
 # 花栖间
-> UniApp中采用Vue3+Pinna模式开发的H5，小程序，APP平台的，花栖间项目。
+> 基于 uni-App 框架采用 Vue3 + Pinna + uv-ui + uniClound 云服务前后端一体化模式开发的一套代码部署多端平台的，鲜花商城项目。
 
 ## 项目预览
-  - 在线预览：https://www.flowertip.site/mall/#/
+  - 在线预览：https://www.flowertip.site/mall
 
 ## 项目截图
 1. H5截图
