@@ -1,4 +1,4 @@
-# FlowerTip-Admin-Vue
+# FlowerTip Admin Vue
 
 > 一个基于 Vue3 + TypeScript + Element Plus + Axios + Vue Router@4 + Pina + Vite 开发的企业级后台管理系统
 
