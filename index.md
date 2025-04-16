@@ -20,7 +20,7 @@ features:
   - icon:
       src: /svg/avatar.jpg
     title: Vitepress Blog
-    details: 基于 VitePress 开发的博客知识库静态网站，作者：狗尾巴花的尖，专注于前端开发，目的在于提升自身技术水平和指导日常工作
+    details: 基于 VitePress 开发的博客知识库静态网站，作者：狗尾巴花的尖，专注于各种前沿技术的学习和分享，目的在于提升自身技术水平和指导日常工作
     link: https://flowertip.site
   - icon:
       src: /svg/study.svg
@@ -32,8 +32,8 @@ features:
     title: 开源租位
     details: 推广别人投递的开源项目，或者是后续自己开发的项目，如果大家有需要展示的自己的作品，可以联系作者，作者会审核项目后添加在此展示你的个人作品
 hero:
-  name: 高级前端进阶
-  text: 狗尾巴花的尖，专注于前端开发
+  name: 学习进阶提升
+  text: 狗尾巴花的尖，专注于前沿技术学习
   tagline: FlowerTip Admin 企业级后台管理系统开源项目的作者，致力于为企业级项目提供开箱即用的解决方案
   image:
     src: /svg/logo.svg
