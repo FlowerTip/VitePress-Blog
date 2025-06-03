@@ -12,7 +12,7 @@ export default defineConfig({
     * 这里用到了公用目录 public ： 资源路径可以直接用绝对路径 /xxx
     * 渲染效果 ：<link rel="icon" href="/abc.png">
     */
-    ['link', { rel: 'icon', href: '/vitepress-blog/images/favicon.ico' }],
+    ['link', { rel: 'icon', href: '/vitepress-blog/svg/avatar.svg' }],
     ["script",{src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"}],
     ['script', {}, `var _hmt = _hmt || [];
     (function() {
@@ -24,7 +24,7 @@ export default defineConfig({
   ],
   themeConfig: {
     siteTitle: '知识库',
-    logo: '/images/avatar.jpg',
+    logo: '/svg/avatar.svg',
     outlineTitle: "知识内容",
     outline: [1, 6],
     nav: [

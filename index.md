@@ -18,7 +18,7 @@ features:
     details: 基于 uni-App 框架采用 Vue3 + Pinna + uv-ui + uniClound 云服务前后端一体化模式开发的一套代码部署多端平台的，鲜花商城项目。
     link: https://www.flowertip.site/mall
   - icon:
-      src: /svg/avatar.jpg
+      src: /svg/avatar.svg
     title: Vitepress Blog
     details: 基于 VitePress 开发的博客知识库静态网站，作者：狗尾巴花的尖，专注于各种前沿技术的学习和分享，目的在于提升自身技术水平和指导日常工作
     link: https://flowertip.site
@@ -40,9 +40,9 @@ hero:
     alt: 背景图
   actions:
     - theme: brand
-      text: 开始学习知识
+      text: 开始学习
       link: /docs/web/vue/default
     - theme: alt
-      text: 加入我的团队
+      text: 加入我的组织
       link: https://gitee.com/CodeTV
 ---
