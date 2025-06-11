@@ -3,12 +3,12 @@ layout: home
 
 features:
   - icon:
-      src: /svg/vue.svg
+      src: /images/vue.gif
     title: FlowerTip Admin Vue
     details: 一个基于 Vue3 + TypeScript + Element Plus + Axios + Vue Router@4 + Pina + Vite 开发的企业级后台管理系统
     link: https://www.flowertip.site/admin/#/login
   - icon:
-      src: /svg/react.svg
+      src: /images/react.gif
     title: FlowerTip Admin React
     details: 一个基于 React18 + TypeScript + Antd Design + Axios + React-Router-Dom@6 + Valtio + Vite 开发的企业级后台管理系统
     link: https://www.flowertip.site/pro/#/login
