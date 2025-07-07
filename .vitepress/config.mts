@@ -13,7 +13,7 @@ export default defineConfig({
     * 渲染效果 ：<link rel="icon" href="/abc.png">
     */
     ['link', { rel: 'icon', href: '/vitepress-blog/svg/avatar.svg' }],
-    ["script",{src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"}],
+    ["script", { src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" }],
     ['script', {}, `var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
