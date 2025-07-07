@@ -11,7 +11,7 @@ export default {
     return h(DefaultTheme.Layout, null, {
       // https://vitepress.dev/guide/extending-default-theme#layout-slots
       'home-features-after': () => h(Confetti),
-      'doc-after': () => h(Giscus),
+      'doc-footer-before': () => h(Giscus),
     })
   },
   enhanceApp({ app }) {
