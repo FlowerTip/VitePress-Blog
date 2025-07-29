@@ -123,6 +123,6 @@ export default defineConfig({
   },
   metaChunk: true,
   sitemap: {
-    hostname: 'https://www.flowertip.site/vitepress-blog/'
+    hostname: 'https://www.flowertip.cn/vitepress-blog/'
   }
 })

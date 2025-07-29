@@ -4,7 +4,7 @@
 
 ## 项目预览
 
-项目预览地址：https://www.flowertip.site/admin/#/login
+项目预览地址：https://www.flowertip.cn/admin/#/login
 默认填充的有超级管理员的账号密码，直接登录
 可以自行添加测试账号，分配权限
 
