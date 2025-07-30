@@ -3,7 +3,7 @@ import type { Theme } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import Confetti from "./components/Confetti.vue";
 import Giscus from "./components/Giscus.vue";
-import './style.css'
+import './style.css';
 
 export default {
   extends: DefaultTheme,
