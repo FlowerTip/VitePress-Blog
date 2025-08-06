@@ -22,6 +22,16 @@ export default {
       ]
     }
   ],
+  /* Node进阶 */
+  '/docs/web/node/': [
+    {
+      text: 'Node进阶',
+      items: [
+        { text: 'Express框架入门指南', link: '/docs/web/node/default' },
+        { text: 'Nest框架入门前置知识', link: '/docs/web/node/Nest入门前置知识' },
+      ]
+    }
+  ],
   /* Typescript进阶 */
   '/docs/web/typescript/': [
     {

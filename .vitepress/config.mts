@@ -13,7 +13,7 @@ export default defineConfig({
     * 渲染效果 ：<link rel="icon" href="/abc.png">
     */
     ['link', { rel: 'icon', href: '/vitepress-blog/svg/avatar.svg' }],
-    // ["script", { src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" }],
+    ["script", { src: "https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js" }],
     ['script', {}, `var _hmt = _hmt || [];
     (function() {
       var hm = document.createElement("script");
@@ -51,9 +51,9 @@ export default defineConfig({
     ],
     sidebar,
     footer: {
-      // message: '<span id="busuanzi_container_site_pv" style="display:none">网站总访问量：<span id="busuanzi_value_site_pv"></span>次<span class= "post-meta-divider">  </span></span><span id="busuanzi_container_site_uv" style="display:none">网站访客数：<span id="busuanzi_value_site_uv"></span>人</span>',
-      message: '<span> 快乐是要去寻找的，很少有人天生幸福。</span>',
-      copyright: 'Copyright@ 2024 狗尾巴花的尖 <a href="https://beian.miit.gov.cn/" target="_blank">京ICP备2024083028号-1</a>',
+      message: '<span id="busuanzi_container_site_pv" style="display:none">网站总访问量：<span id="busuanzi_value_site_pv"></span>次<span class= "post-meta-divider">  </span></span><span id="busuanzi_container_site_uv" style="display:none">网站访客数：<span id="busuanzi_value_site_uv"></span>人</span>',
+      // message: '<span> 快乐是要去寻找的，很少有人天生幸福。</span>',
+      copyright: 'Copyright@ 2024 狗尾巴花的尖 <a href="https://beian.miit.gov.cn" target="_blank">京ICP备2024083028号-2</a>',
     },
     search: {
       provider: 'local',
